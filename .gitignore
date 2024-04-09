@@ -15,3 +15,5 @@ packages
 .idea
 .DS_Store
 node_modules
+.jfrog*
+.vscode*
